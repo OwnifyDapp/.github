@@ -1,7 +1,7 @@
 # .github
 Web3 Economy Framework
 
-# Decentrialzed Electronic Commerce (Web3 eCommerce)
+# Decentralized Electronic Commerce (Web3 eCommerce)
 
 
 The term decentralized electronic commerce refers to electronic trade via a decentralized autonomous network as a process of business between 
