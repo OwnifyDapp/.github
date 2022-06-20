@@ -11,7 +11,6 @@ between parties which are represented as cryptographic key hashes.
 ## Definitions
 
 * **Blockchain:** a growing list of records, called blocks, that are securely linked together using cryptography. 
-  "stateful contract", "contract", or "app".
 * **Non-Fungible Token (NFT)**: a unique digital asset with on-chain representation of ownership and identification of its authenticity that include assets where the value is embedded in the data of the NFT
   accounts and can display and sign transactions for these accounts.
 * **Fungible token**: a non-unique assets that are created and are traded or used for payments.
