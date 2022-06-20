@@ -1,7 +1,5 @@
 # .github
 
-DeeC
-
 # Decentralized Electronic Commerce 
 
 The term decentralized electronic commerce refers to electronic trade via a decentralized autonomous network as a process of business between 
