@@ -1,4 +1,4 @@
-# .github
+# Web3 Economy Conventions
 
 # Decentralized Electronic Commerce 
 
